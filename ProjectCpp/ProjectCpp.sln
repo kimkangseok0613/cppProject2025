@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToyProject01", "ToyProject0
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SnakeGame", "..\SnakeGame\SnakeGame.vcxproj", "{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH3", "CH3", "{FEB73671-4535-4BC3-AA6C-20586C02A4B6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch3", "..\Ch3\Ch3.vcxproj", "{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -45,6 +49,14 @@ Global
 		{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0}.Release|x64.Build.0 = Release|x64
 		{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0}.Release|x86.ActiveCfg = Release|Win32
 		{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0}.Release|x86.Build.0 = Release|Win32
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Debug|x64.ActiveCfg = Debug|x64
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Debug|x64.Build.0 = Debug|x64
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Debug|x86.ActiveCfg = Debug|Win32
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Debug|x86.Build.0 = Debug|Win32
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Release|x64.ActiveCfg = Release|x64
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Release|x64.Build.0 = Release|x64
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Release|x86.ActiveCfg = Release|Win32
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +64,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{D9DF8D40-D1BE-4AA0-BD43-781EA888E3D4} = {A0AE4E4F-A49A-4D7D-8A17-4F9B251ADA53}
 		{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0} = {D49B2303-6D2D-43F2-8282-B5493358207E}
+		{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7} = {FEB73671-4535-4BC3-AA6C-20586C02A4B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F9D4D7B9-771D-477D-AA3E-0114C08F2087}
