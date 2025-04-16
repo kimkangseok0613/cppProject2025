@@ -3,10 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cppProject2025\\ProjectCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B80B8734-0BBA-4CE8-92E7-2D6CCAC15DF7}|..\\Ch3\\Ch3.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B8CF61A0-CF68-4DED-8950-F9C371B6054E}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B4FB85D-73C3-47B3-8B8E-FFC9A8871CB0}|..\\SnakeGame\\SnakeGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\SnakeGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B8CF61A0-CF68-4DED-8950-F9C371B6054E}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CF61A0-CF68-4DED-8950-F9C371B6054E}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CF61A0-CF68-4DED-8950-F9C371B6054E}|..\\Ch5\\Ch5.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,32 +22,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\SnakeGame\\main.cpp",
-              "RelativeDocumentMoniker": "..\\SnakeGame\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\SnakeGame\\main.cpp",
-              "RelativeToolTip": "..\\SnakeGame\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T07:45:27.406Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch3\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch3\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch3\\main.cpp",
-              "RelativeToolTip": "..\\Ch3\\main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAATAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Ch5\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\main.cpp",
+              "RelativeToolTip": "..\\Ch5\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-14T07:04:01.292Z",
+              "WhenOpened": "2025-04-16T07:02:49.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "person.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.cpp",
+              "RelativeDocumentMoniker": "..\\Ch5\\person.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.cpp",
+              "RelativeToolTip": "..\\Ch5\\person.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-16T07:30:04.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "person.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.h",
+              "RelativeDocumentMoniker": "..\\Ch5\\person.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\person.h",
+              "RelativeToolTip": "..\\Ch5\\person.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T07:25:29.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "common.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\common.h",
+              "RelativeDocumentMoniker": "..\\Ch5\\common.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch5\\common.h",
+              "RelativeToolTip": "..\\Ch5\\common.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-16T07:03:02.853Z",
               "EditorCaption": ""
             }
           ]
