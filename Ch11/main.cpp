@@ -31,6 +31,9 @@ int main()
 	system("cls");
 	cout << "달리기 게임 코드" << endl; // Game Title
 
+	// 사운드를 출력해주는 기능
+	SoundUtil::PlayBGM(_T("Sound.wav"));
+
 	Runner* runA = new Player();
 	Runner* runB = new Runner("B");
 	Runner* runC = new Runner("C");

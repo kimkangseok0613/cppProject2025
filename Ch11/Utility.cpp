@@ -15,3 +15,12 @@ void ConsoleUtil::GoToXY(int x, int y)
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
 
+void SoundUtil::PlayTitleSound(LPCWSTR filename)
+{
+    PlaySound(filename, NULL, SND_SYNC);
+}
+
+void SoundUtil::PlayBGM(LPCWSTR filename)
+{
+    PlaySound(filename, NULL, SND_ASYNC);
+}

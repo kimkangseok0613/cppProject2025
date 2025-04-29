@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\User\Desktop\cppProject2025\Ch12\main.cpp(77,14): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Runner2.cpp
+  코드를 생성하고 있습니다...
+Utility1.obj : error LNK2005: "public: static void __cdecl SoundUtil::PlayBGM(wchar_t const *)" (?PlayBGM@SoundUtil@@SAXPEB_W@Z)이(가) SoundUtil.obj에 이미 정의되어 있습니다.
+Utility1.obj : error LNK2005: "public: static void __cdecl SoundUtil::PlayTitleSound(wchar_t const *)" (?PlayTitleSound@SoundUtil@@SAXPEB_W@Z)이(가) SoundUtil.obj에 이미 정의되어 있습니다.
+C:\Users\User\Desktop\cppProject2025\ProjectCpp\x64\Debug\Ch12.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.
