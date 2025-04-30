@@ -3,34 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cppProject2025\\ProjectCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E47DE7-F194-48DD-BFB8-04E8FE94BB3F}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E47DE7-F194-48DD-BFB8-04E8FE94BB3F}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E47DE7-F194-48DD-BFB8-04E8FE94BB3F}|..\\Ch11\\Ch11.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8E36B8E-CD41-4FB9-8F49-0D2F64D816EC}|..\\Ch12\\Ch12.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,136 +37,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Runner2.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.h",
-              "RelativeDocumentMoniker": "..\\Ch12\\Runner2.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.h",
-              "RelativeToolTip": "..\\Ch12\\Runner2.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T08:49:09.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SoundUtil.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.cpp",
-              "RelativeDocumentMoniker": "..\\Ch12\\SoundUtil.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.cpp",
-              "RelativeToolTip": "..\\Ch12\\SoundUtil.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:49:03.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Runner2.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.cpp",
-              "RelativeDocumentMoniker": "..\\Ch12\\Runner2.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Runner2.cpp",
-              "RelativeToolTip": "..\\Ch12\\Runner2.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:48:57.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Utility1.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.cpp",
-              "RelativeDocumentMoniker": "..\\Ch12\\Utility1.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.cpp",
-              "RelativeToolTip": "..\\Ch12\\Utility1.cpp",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:48:11.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Utility1.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.h",
-              "RelativeDocumentMoniker": "..\\Ch12\\Utility1.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\Utility1.h",
-              "RelativeToolTip": "..\\Ch12\\Utility1.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T08:47:57.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch11\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\main.cpp",
-              "RelativeToolTip": "..\\Ch11\\main.cpp",
-              "ViewState": "AQIAABIAAAAAAAAAAAAswCIAAAABAAAA",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp",
+              "RelativeToolTip": "..\\RunnerGame\\main.cpp",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwD0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:46:57.733Z",
+              "WhenOpened": "2025-04-30T08:58:53.987Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Utility.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.cpp",
-              "RelativeDocumentMoniker": "..\\Ch11\\Utility.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.cpp",
-              "RelativeToolTip": "..\\Ch11\\Utility.cpp",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "SoundUtil.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\SoundUtil.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h",
+              "RelativeToolTip": "..\\RunnerGame\\SoundUtil.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T08:58:30.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoundUtil.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\SoundUtil.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp",
+              "RelativeToolTip": "..\\RunnerGame\\SoundUtil.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:46:53.843Z",
+              "WhenOpened": "2025-04-30T08:58:07.823Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Utility.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.h",
-              "RelativeDocumentMoniker": "..\\Ch11\\Utility.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch11\\Utility.h",
-              "RelativeToolTip": "..\\Ch11\\Utility.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "ShopItem.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\ShopItem.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h",
+              "RelativeToolTip": "..\\RunnerGame\\ShopItem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T08:46:51.248Z",
+              "WhenOpened": "2025-04-30T08:57:40.832Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SoundUtil.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.h",
-              "RelativeDocumentMoniker": "..\\Ch12\\SoundUtil.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\SoundUtil.h",
-              "RelativeToolTip": "..\\Ch12\\SoundUtil.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-29T08:46:27.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\main.cpp",
-              "RelativeDocumentMoniker": "..\\Ch12\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\Ch12\\main.cpp",
-              "RelativeToolTip": "..\\Ch12\\main.cpp",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "ShopItem.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\ShopItem.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp",
+              "RelativeToolTip": "..\\RunnerGame\\ShopItem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-29T08:44:44.061Z",
+              "WhenOpened": "2025-04-30T08:57:21.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Runner2.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\Runner2.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h",
+              "RelativeToolTip": "..\\RunnerGame\\Runner2.h",
+              "ViewState": "AQIAADMAAAAAAAAAAAAYwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T08:56:41.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Runner2.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\Runner2.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp",
+              "RelativeToolTip": "..\\RunnerGame\\Runner2.cpp",
+              "ViewState": "AQIAAHUAAAAAAAAAAAAYwI0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T08:56:01.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\GameManager.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp",
+              "RelativeToolTip": "..\\RunnerGame\\GameManager.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAYwHIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-30T08:55:32.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h",
+              "RelativeDocumentMoniker": "..\\RunnerGame\\GameManager.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h",
+              "RelativeToolTip": "..\\RunnerGame\\GameManager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-04-30T08:54:49.737Z",
               "EditorCaption": ""
             }
           ]

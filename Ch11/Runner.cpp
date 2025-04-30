@@ -25,13 +25,19 @@ bool Runner::CheckEndLine(int length)
 	return isEnd;
 }
 
-void Player::Run()
+void Runner::ShowPlayerGameInfo()
 {
-	Runner::Run();
-	cout << "~~";
 }
 
-void Enemy::Run()
+void Runner::Upgrade(PlayerStat selectedStat)
 {
 
+}
+
+void Player::ShowPlayerGameInfo()
+{
+	ConsoleUtility::GoToXY(0, 6);
+	cout << "유저 정보" << endl;
+	cout << "최소 속도 : " << minSpeed << "최대 속도 : " << maxSpeed << endl;
+	cout << "보유 금액 : " << " " << endl;
 }

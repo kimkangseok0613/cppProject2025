@@ -1,0 +1,11 @@
+﻿  GameManager.cpp
+  main.cpp
+C:\Users\User\Desktop\cppProject2025\RunnerGame\Runner2.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Common.h': No such file or directory
+C:\Users\User\Desktop\cppProject2025\RunnerGame\Runner2.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Common.h': No such file or directory
+  Runner2.cpp
+C:\Users\User\Desktop\cppProject2025\RunnerGame\Runner2.h(3,10): error C1083: 포함 파일을 열 수 없습니다. 'Common.h': No such file or directory
+  ShopItem.cpp
+  SoundUtil.cpp
+C:\Users\User\Desktop\cppProject2025\RunnerGame\SoundUtil.cpp(24,26): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\User\Desktop\cppProject2025\RunnerGame\SoundUtil.cpp(24,28): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  코드를 생성하고 있습니다...

@@ -4,19 +4,19 @@
 #include <Windows.h>
 #include <tchar.h>
 
-class RandomUtil
+class RandomUtil1
 {
 public:
 	static int GetRandomInt(int range);
 };
 
-class ConsoleUtil
+class ConsoleUtil1
 {
 public:
 	static void GoToXY(int x, int y);
 };
 
-class SoundUtil
+class SoundUtil1
 {
 public:
 	static void PlayTitleSound(LPCWSTR filename);

@@ -1,6 +1,6 @@
 #include "Utility1.h"
 
-int RandomUtil::GetRandomInt(int range)
+int RandomUtil1::GetRandomInt(int range)
 {
     static std::random_device device;
     static std::mt19937 gen(device());
@@ -9,18 +9,18 @@ int RandomUtil::GetRandomInt(int range)
     return dist(gen);
 }
 
-void ConsoleUtil::GoToXY(int x, int y)
+void ConsoleUtil1::GoToXY(int x, int y)
 {
     static COORD pos = { x,y };
     SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), pos);
 }
 
-void SoundUtil::PlayTitleSound(LPCWSTR filename)
+void SoundUtil1::PlayTitleSound(LPCWSTR filename)
 {
     PlaySound(filename, NULL, SND_SYNC);
 }
 
-void SoundUtil::PlayBGM(LPCWSTR filename)
+void SoundUtil1::PlayBGM(LPCWSTR filename)
 {
     PlaySound(filename, NULL, SND_ASYNC);
 }

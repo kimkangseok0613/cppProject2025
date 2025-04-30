@@ -132,14 +132,18 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Runner2.cpp" />
     <ClCompile Include="SoundUtil.cpp" />
-    <ClCompile Include="Utility1.cpp" />
+    <ClCompile Include="Utility1.cpp">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Base.h" />
     <ClInclude Include="Common.h" />
     <ClInclude Include="Runner2.h" />
     <ClInclude Include="SoundUtil.h" />
-    <ClInclude Include="Utility1.h" />
+    <ClInclude Include="Utility1.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClInclude>
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
