@@ -3,31 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\cppProject2025\\ProjectCpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Actor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C5FF132-7998-4B87-9790-5395AB5E440D}|..\\RunnerGame\\RunnerGame.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8956EAB8-6104-466A-86BD-1EAD9D497CA1}|..\\StoryTelling\\StoryTelling.vcxproj|C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,123 +28,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\main.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\main.cpp",
-              "RelativeToolTip": "..\\RunnerGame\\main.cpp",
-              "ViewState": "AQIAACUAAAAAAAAAAAAYwD0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T08:58:53.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SoundUtil.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\SoundUtil.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.h",
-              "RelativeToolTip": "..\\RunnerGame\\SoundUtil.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwB4AAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "Actor.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Actor.h",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\Actor.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Actor.h",
+              "RelativeToolTip": "..\\StoryTelling\\Actor.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-30T08:58:30.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SoundUtil.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\SoundUtil.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\SoundUtil.cpp",
-              "RelativeToolTip": "..\\RunnerGame\\SoundUtil.cpp",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T08:58:07.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ShopItem.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\ShopItem.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.h",
-              "RelativeToolTip": "..\\RunnerGame\\ShopItem.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-30T08:57:40.832Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ShopItem.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\ShopItem.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\ShopItem.cpp",
-              "RelativeToolTip": "..\\RunnerGame\\ShopItem.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T08:57:21.607Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Runner2.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\Runner2.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.h",
-              "RelativeToolTip": "..\\RunnerGame\\Runner2.h",
-              "ViewState": "AQIAADMAAAAAAAAAAAAYwEsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-30T08:56:41.518Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Runner2.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\Runner2.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\Runner2.cpp",
-              "RelativeToolTip": "..\\RunnerGame\\Runner2.cpp",
-              "ViewState": "AQIAAHUAAAAAAAAAAAAYwI0AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T08:56:01.425Z",
+              "WhenOpened": "2025-05-06T08:13:52.295Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "GameManager.cpp",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\GameManager.cpp",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.cpp",
-              "RelativeToolTip": "..\\RunnerGame\\GameManager.cpp",
-              "ViewState": "AQIAAFoAAAAAAAAAAAAYwHIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T08:55:32.974Z",
+              "Title": "Image.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Image.h",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\Image.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Image.h",
+              "RelativeToolTip": "..\\StoryTelling\\Image.h",
+              "ViewState": "AQIAADgAAAAAAAAAAAAIwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T07:29:39.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameManager.h",
-              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h",
-              "RelativeDocumentMoniker": "..\\RunnerGame\\GameManager.h",
-              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\RunnerGame\\GameManager.h",
-              "RelativeToolTip": "..\\RunnerGame\\GameManager.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwBgAAAACAAAA",
+              "DocumentIndex": 3,
+              "Title": "ImageModel.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\ImageModel.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\ImageModel.h",
+              "RelativeToolTip": "..\\StoryTelling\\ImageModel.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-30T08:54:49.737Z",
+              "WhenOpened": "2025-05-06T07:19:19.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Console.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.cpp",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.cpp",
+              "RelativeToolTip": "..\\StoryTelling\\Console.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T07:19:01.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Console.h",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.h",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\Console.h",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\Console.h",
+              "RelativeToolTip": "..\\StoryTelling\\Console.h",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-06T07:08:35.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\main.cpp",
+              "RelativeDocumentMoniker": "..\\StoryTelling\\main.cpp",
+              "ToolTip": "C:\\Users\\User\\Desktop\\cppProject2025\\StoryTelling\\main.cpp",
+              "RelativeToolTip": "..\\StoryTelling\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-06T07:06:37.332Z",
               "EditorCaption": ""
             }
           ]
